@@ -12,7 +12,7 @@ This success has led Waggle’s CEO to push for a feline version but there are c
 * The product team trusts you to incorporate other visuals and insights as you see fit but is most interested in demographic comparisons between the dogs and cats using Waggle devices as 
   well as any information about the families who own the pets. They would also like slicers to help them filter and explore on their own.
 
-  ## Project Steps :
+## Project Steps :
   * Review the included data model and business questions and identify which fields can be used to design metrics that answer the CEO’s questions.(Understanding the data!).
   * Develop one or more visualizations that specifically address the CEO’s questions about whether there was a difference in average daily steps over time between the two devices and how 
     Lapcat owners rated their device compared to Lapdog owners.
@@ -26,14 +26,28 @@ This success has led Waggle’s CEO to push for a feline version but there are c
   * Create at least two bookmark features. One must allow users to dynamically swap one visual out with a different one and another must reset all applied filters on the page.
   * Create buttons that help your users navigate your report. Buttons must respond when users hover over them by changing color or size (or both!).
 
-  ## Final Report :
+## Final Report :
 
   ### Data Model :
   ![image](https://github.com/Marah-At/Waggle-Report/assets/121014215/2ef09528-f4dd-46cf-ba88-0aed5fec9052)
 
-  ### First Tab : Performance & Customer Ratings
+  ### First tab : Performance & Customer Ratings
   ![image](https://github.com/Marah-At/Waggle-Report/assets/121014215/02ff4ab7-411e-4561-943f-b3efa38120d2)
   ![image](https://github.com/Marah-At/Waggle-Report/assets/121014215/687d6a12-2fde-4b9c-a090-a5a6257e1bb9)
+
+  ### Second tab : Pets Insights 
+  ![image](https://github.com/Marah-At/Waggle-Report/assets/121014215/3d496024-d2d6-4dbb-a645-6685e8fba0a7)
+  ![image](https://github.com/Marah-At/Waggle-Report/assets/121014215/a24bc7b5-d281-463e-8ee7-2eac4743eb9c)
+
+  ### Third tab : Family Insights 
+  ![image](https://github.com/Marah-At/Waggle-Report/assets/121014215/4fc283cd-58ca-4790-8d72-ed227d2dfb14)
+
+  ### Forth tab : Family Summary 
+  ![image](https://github.com/Marah-At/Waggle-Report/assets/121014215/301003bc-137f-4b7c-9f17-f4c2faf232c5)
+
+
+
+
 
 
   
